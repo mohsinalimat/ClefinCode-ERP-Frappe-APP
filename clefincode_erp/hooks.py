@@ -2,9 +2,9 @@ from . import __version__ as app_version
 from frappe import __version__ as frappe_version
 
 app_name = "clefincode_erp"
-app_title = "ClefinCode ERP"
+app_title = "ClefinCode Chat"
 app_publisher = "ClefinCode L.L.C-FZ"
-app_description = """Boost ERPNext with efficient tools & mobile apps"""
+app_description = """ERPNext & Frappe Business Chat: A self-hosted communication solution."""
 app_email = "info@clefincode.com"
 app_license = "GNU General Public License (v3)"
 guest_title = app_title
