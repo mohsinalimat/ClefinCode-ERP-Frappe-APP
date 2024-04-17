@@ -1,11 +1,11 @@
 <p align="center">
 To submit our app to the Frappe Marketplace, we changed its name from "ERP" to "Chat" as required by the Frappe Team. You can access the updated repository at this URL.
-[ClefinCode Chat](https://github.com/clefincode/clefincode_chat)
-
+<br />
+<a href="https://github.com/clefincode/clefincode_chat">ClefinCode Chat</a>
 
 <img src="screenshots/clefincode_chat_logo.png" alt="ClefinCode Chat logo" width="50%" />
 
-<h3 align="center">ClefinCode ERP</h3>
+<h3 align="center">ClefinCode Chat</h3>
   <p align="center">Enhance business communication with multimedia messaging and ERPNext integration.
     <br />
     <br />
